@@ -8,7 +8,7 @@ public class Main {
 
         cuenta1 = new CCuenta("Antonio Lopez", "1000-2365-85-1230456789", 2500, 0);
 
-        operativa_cuenta(cuenta1, );
+        operativa_cuenta(cuenta1, 3000);
     }
 
     private static void operativa_cuenta(CCuenta cuenta1, float cantidad) {

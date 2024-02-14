@@ -64,11 +64,11 @@ public class CCuenta {
         this.saldo = saldo;
     }
 
-    public double getTipoInterés() {
+    public double getTipoInteres() {
         return tipoInteres;
     }
 
-    public void setTipoInterés(double tipoInterés) {
-        this.tipoInteres = tipoInterés;
+    public void setTipoInteres(double tipoInteres) {
+        this.tipoInteres = tipoInteres;
     }
 }
