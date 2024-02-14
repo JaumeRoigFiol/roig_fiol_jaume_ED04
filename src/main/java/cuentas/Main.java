@@ -6,7 +6,7 @@ public class Main {
         CCuenta cuenta1;
         double saldoActual;
 
-        cuenta1 = new CCuenta("Antonio López", "1000-2365-85-1230456789", 2500, 0);
+        cuenta1 = new CCuenta("Antonio Lopez", "1000-2365-85-1230456789", 2500, 0);
 
         operativa_cuenta(cuenta1, );
     }
